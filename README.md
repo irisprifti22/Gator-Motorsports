@@ -1,2 +1,2 @@
-# gatormotorsports
-gator motorsports new website
+# Gator Motorsports
+The new Gator Motorsports website
